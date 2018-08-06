@@ -1,0 +1,37 @@
+# [1.2.0](https://github.com/wmfs/smithereens/compare/v1.1.1...v1.2.0) (2018-08-06)
+
+
+### ✨ Features
+
+* Add 'uuid' column type to generate ids at import time ([520a175](https://github.com/wmfs/smithereens/commit/520a175))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement to 2.1.2 ([db56600](https://github.com/wmfs/smithereens/commit/db56600))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement to 3.0.0 ([1ef97c8](https://github.com/wmfs/smithereens/commit/1ef97c8))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 6.0.2 ([ba49aa9](https://github.com/wmfs/smithereens/commit/ba49aa9))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 7.0.0 ([469788b](https://github.com/wmfs/smithereens/commit/469788b))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement to 7.0.1 ([ee457df](https://github.com/wmfs/smithereens/commit/ee457df))
+* **deps-dev:** update semantic-release requirement to 15.7.2 ([5c7c464](https://github.com/wmfs/smithereens/commit/5c7c464))
+* **deps-dev:** update semantic-release requirement to 15.8.0 ([e376f22](https://github.com/wmfs/smithereens/commit/e376f22))
+* **deps-dev:** update semantic-release requirement to 15.8.1 ([88c1c04](https://github.com/wmfs/smithereens/commit/88c1c04))
+* **deps-dev:** update semantic-release requirement to 15.9.1 ([8c888d2](https://github.com/wmfs/smithereens/commit/8c888d2))
+* **deps-dev:** update semantic-release requirement to 15.9.2 ([da74b6c](https://github.com/wmfs/smithereens/commit/da74b6c))
+* **deps-dev:** update semantic-release requirement to 15.9.3 ([8384791](https://github.com/wmfs/smithereens/commit/8384791))
+
+
+### ⚙️ Continuous Integrations
+
+* remove deps-dev scoping release ([bb0e37e](https://github.com/wmfs/smithereens/commit/bb0e37e))
+
+
+### ♻️ Chores
+
+* codecov 3.0.3 -> 3.0.4, semantic-release 15.9.3 -> 15.9.5 ([bc65d5d](https://github.com/wmfs/smithereens/commit/bc65d5d))
+* Correct uuid dependency: ^3.3.2 -> 3.3.2 ([ff2cc73](https://github.com/wmfs/smithereens/commit/ff2cc73))
+
+
+### 💎 Styles
+
+* Strip rogue semi-colon ([d1b83ee](https://github.com/wmfs/smithereens/commit/d1b83ee))
