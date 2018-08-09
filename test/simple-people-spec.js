@@ -52,7 +52,9 @@ describe('Basic Smithereens tests', function () {
                 {name: 'person_no', columnIndex: 0},
                 {name: 'first_name', columnIndex: 1},
                 {name: 'last_name', columnIndex: 2},
-                {name: 'hash_sum', type: 'hash'}
+                {name: 'hash_sum', type: 'hash'},
+                {name: 'integer', type: 'constant', value: 1},
+                {name: 'string', type: 'constant', value: 'pig'}
               ]
 
             },

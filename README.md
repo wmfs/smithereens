@@ -8,8 +8,8 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly/blob/master/packages/pg-concat/LICENSE)
-                                                                                                                   
-                                                                                                                    
+
+
 
 
 > Smash CSV files into more manageable files based on column values
@@ -41,7 +41,7 @@ smithereens(
 
   ],
   {
-  
+
     outputDirRootPath: '/some/output/dir',
 
     parser: {
@@ -51,7 +51,7 @@ smithereens(
       skipFirstLine: true,
       trimWhitespace: true
     },
-  
+
     dirSplits: [
       {
         columnIndex: 3,
@@ -61,7 +61,7 @@ smithereens(
         }
       }
     ],
-    
+
     fileSplits: {
       columnIndex: 4,
       valueToFileMap: {
@@ -82,9 +82,9 @@ smithereens(
       }
     }
   },
-  
+
   function (err, manifest) {
-  
+
     // File output
     // -----------
     //   /some/output/dir
@@ -104,7 +104,7 @@ smithereens(
     //       person_no
     //       30
     //     unknown.csv:
-    //       50,Maggie,Simpson,c,x    
+    //       50,Maggie,Simpson,c,x
     //   ./unknown
     //     changes.csv:
     //       person_no,first_name,last_name
@@ -134,7 +134,7 @@ smithereens(
 
 ### `parser` object
 
-Configures how to parse incoming CSV lines. Uses [csv-streamify](https://www.npmjs.com/package/csv-streamify) under the bonnet.   
+Configures how to parse incoming CSV lines. Uses [csv-streamify](https://www.npmjs.com/package/csv-streamify) under the bonnet.
 
 | Property | Type | Description |
 | --- | ---- | ----------- |
@@ -146,7 +146,7 @@ Configures how to parse incoming CSV lines. Uses [csv-streamify](https://www.npm
 
 ### `dirSplit` object
 
-Smithereens can break CSV files across a nested set of directories based on values defined in each line. 
+Smithereens can break CSV files across a nested set of directories based on values defined in each line.
 
 | Property | Type | Description |
 | --- | ---- | ----------- |
@@ -155,7 +155,7 @@ Smithereens can break CSV files across a nested set of directories based on valu
 
 ### `fileSplit` object
 
-In a similar way, Smithereens can route lines to different files, based on the contents of a parsed CSV column. 
+In a similar way, Smithereens can route lines to different files, based on the contents of a parsed CSV column.
 
 | Property | Type | Description |
 | --- | ---- | ----------- |
@@ -164,12 +164,24 @@ In a similar way, Smithereens can route lines to different files, based on the c
 
 ### `file` object
 
-Defines which filename a CSV row should be routed to, along with some output-formatting configuration. 
+Defines which filename a CSV row should be routed to, along with some output-formatting configuration.
 
 | Property | Type | Description |
 | --- | ---- | ----------- |
 | `filename` | `string` | The filename which a row should be routed to. All output files will be in CSV format. Note that the `.csv` extension is added automatically, so don't include it here. |
-| `outputColumns` | `[object]` | An array of objects - each defining a column that should appear in the output file. Each object in this array should contain two properties: `name` refers to the column header name (as included in the first line of each output file) and `columnIndex` identifies a value in the parsed incoming CSV array to use. |
+| `outputColumns` | `[object]` | An array of `outputColumn` objects - each defining a column that should appear in the output file. |
+
+### `outputColumn` object
+
+Defines the values for each column in the output.
+
+| Property | Type | Description |
+| --- | ---- | ----- |
+| `name` | string | The name of the column, used in the first line of the CSV output |
+| `columnIndex` | integer | Identifies the column in the corresponding row of the parsed incoming CSV array to copy to the output. If `columnIndex` is given any `type` parameter is ignored. |
+| `type` | string | Describes other output - `hash`, `uuid`, `constant`. `hash` generates a hash value from the contents of the corresponding input row, `uuid` outputs a unique id, `constant` output a fix value, given by the `value` property. |
+| `value` | number or string | A fixed value to put output when the `type` property is `constant`. |
+
 
 
 ## <a name="test"></a>Testing
