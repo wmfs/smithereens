@@ -1,3 +1,20 @@
+# [1.3.0](https://github.com/wmfs/smithereens/compare/v1.2.0...v1.3.0) (2018-08-09)
+
+
+### ✨ Features
+
+* File description extended to allow constants to be part of the output csv. ([9a475c0](https://github.com/wmfs/smithereens/commit/9a475c0))
+
+
+### 🐛 Bug Fixes
+
+* **Transformer:** standard ([cb970fa](https://github.com/wmfs/smithereens/commit/cb970fa))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update semantic-release requirement from 15.9.5 to 15.9.6 ([e098e61](https://github.com/wmfs/smithereens/commit/e098e61))
+
 # [1.2.0](https://github.com/wmfs/smithereens/compare/v1.1.1...v1.2.0) (2018-08-06)
 
 
