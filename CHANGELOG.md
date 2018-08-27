@@ -1,3 +1,16 @@
+# [1.4.0](https://github.com/wmfs/smithereens/compare/v1.3.0...v1.4.0) (2018-08-27)
+
+
+### 🛠 Builds
+
+* **deps:** update glob requirement from 7.1.2 to 7.1.3 ([03f349d](https://github.com/wmfs/smithereens/commit/03f349d))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.1 to 7.0.2 ([bc40b41](https://github.com/wmfs/smithereens/commit/bc40b41))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.2 to 7.0.3 ([f4f4286](https://github.com/wmfs/smithereens/commit/f4f4286))
+* **deps-dev:** update semantic-release requirement from 15.9.6 to 15.9.7 ([dc65881](https://github.com/wmfs/smithereens/commit/dc65881))
+* **deps-dev:** update semantic-release requirement from 15.9.7 to 15.9.8 ([a304b5a](https://github.com/wmfs/smithereens/commit/a304b5a))
+* **deps-dev:** update semantic-release requirement from 15.9.8 to 15.9.9 ([91f97c6](https://github.com/wmfs/smithereens/commit/91f97c6))
+* **deps-dev:** update semantic-release requirement from 15.9.9 to 15.9.11 ([1e498c0](https://github.com/wmfs/smithereens/commit/1e498c0))
+
 # [1.3.0](https://github.com/wmfs/smithereens/compare/v1.2.0...v1.3.0) (2018-08-09)
 
 
