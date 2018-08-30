@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/wmfs/smithereens/compare/v1.4.0...v1.5.0) (2018-08-30)
+
+
+### 🛠 Builds
+
+* **deps:** update csv-string requirement from 3.1.3 to 3.1.5 ([e80762b](https://github.com/wmfs/smithereens/commit/e80762b))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([8c73e4b](https://github.com/wmfs/smithereens/commit/8c73e4b))
+
 # [1.4.0](https://github.com/wmfs/smithereens/compare/v1.3.0...v1.4.0) (2018-08-27)
 
 
