@@ -1,3 +1,14 @@
+# [1.6.0](https://github.com/wmfs/smithereens/compare/v1.5.0...v1.6.0) (2018-09-08)
+
+
+### 🛠 Builds
+
+* **deps:** update jsonfile requirement from 4.0.0 to 5.0.0 ([e7d7029](https://github.com/wmfs/smithereens/commit/e7d7029))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([484c05d](https://github.com/wmfs/smithereens/commit/484c05d))
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([f2a832f](https://github.com/wmfs/smithereens/commit/f2a832f))
+* **deps-dev:** update semantic-release requirement ([b1f0022](https://github.com/wmfs/smithereens/commit/b1f0022))
+* **dev-deps:** Move to standard 12.0.1 ([6a00925](https://github.com/wmfs/smithereens/commit/6a00925))
+
 # [1.5.0](https://github.com/wmfs/smithereens/compare/v1.4.0...v1.5.0) (2018-08-30)
 
 
