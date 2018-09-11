@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/wmfs/smithereens/compare/v1.9.0...v1.10.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.0 to 4.0.1 ([c302d61](https://github.com/wmfs/smithereens/commit/c302d61))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([4fdeced](https://github.com/wmfs/smithereens/commit/4fdeced))
+
 # [1.9.0](https://github.com/wmfs/smithereens/compare/v1.8.0...v1.9.0) (2018-09-11)
 
 
