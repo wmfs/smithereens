@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/wmfs/smithereens/compare/v1.6.0...v1.7.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.1.0 to 3.2.1 ([01c05d3](https://github.com/wmfs/smithereens/commit/01c05d3))
+* **deps-dev:** update semantic-release requirement ([4c66595](https://github.com/wmfs/smithereens/commit/4c66595))
+
 # [1.6.0](https://github.com/wmfs/smithereens/compare/v1.5.0...v1.6.0) (2018-09-08)
 
 
