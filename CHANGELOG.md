@@ -1,3 +1,11 @@
+# [1.11.0](https://github.com/wmfs/smithereens/compare/v1.10.0...v1.11.0) (2018-09-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.10 to 4.17.11 ([4480782](https://github.com/wmfs/smithereens/commit/4480782))
+* **deps-dev:** update semantic-release requirement ([dcfff3f](https://github.com/wmfs/smithereens/commit/dcfff3f))
+
 # [1.10.0](https://github.com/wmfs/smithereens/compare/v1.9.0...v1.10.0) (2018-09-11)
 
 
