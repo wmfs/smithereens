@@ -1,3 +1,13 @@
+# [1.12.0](https://github.com/wmfs/smithereens/compare/v1.11.0...v1.12.0) (2018-10-08)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.1 to 4.1.0 ([042f885](https://github.com/wmfs/smithereens/commit/042f885))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([a6ff83b](https://github.com/wmfs/smithereens/commit/a6ff83b))
+* **deps-dev:** update semantic-release requirement ([bb26540](https://github.com/wmfs/smithereens/commit/bb26540))
+* **deps-dev:** update semantic-release requirement ([15aad23](https://github.com/wmfs/smithereens/commit/15aad23))
+
 # [1.11.0](https://github.com/wmfs/smithereens/compare/v1.10.0...v1.11.0) (2018-09-12)
 
 
