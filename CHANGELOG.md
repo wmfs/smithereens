@@ -1,3 +1,16 @@
+# [1.13.0](https://github.com/wmfs/smithereens/compare/v1.12.0...v1.13.0) (2018-10-23)
+
+
+### 🛠 Builds
+
+* **deps:** update dottie requirement from 2.0.0 to 2.0.1 ([2ea0088](https://github.com/wmfs/smithereens/commit/2ea0088))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([511983b](https://github.com/wmfs/smithereens/commit/511983b))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([676abe2](https://github.com/wmfs/smithereens/commit/676abe2))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([83d2575](https://github.com/wmfs/smithereens/commit/83d2575))
+* **deps-dev:** update semantic-release requirement ([c9fe7ff](https://github.com/wmfs/smithereens/commit/c9fe7ff))
+* **deps-dev:** update semantic-release requirement ([2929723](https://github.com/wmfs/smithereens/commit/2929723))
+* **deps-dev:** update semantic-release requirement ([f2f5474](https://github.com/wmfs/smithereens/commit/f2f5474))
+
 # [1.12.0](https://github.com/wmfs/smithereens/compare/v1.11.0...v1.12.0) (2018-10-08)
 
 
