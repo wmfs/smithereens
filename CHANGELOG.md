@@ -1,3 +1,11 @@
+# [1.14.0](https://github.com/wmfs/smithereens/compare/v1.13.0...v1.14.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.0 to 7.2.1 ([181a701](https://github.com/wmfs/smithereens/commit/181a701))
+* **deps-dev:** update semantic-release requirement ([aafa862](https://github.com/wmfs/smithereens/commit/aafa862))
+
 # [1.13.0](https://github.com/wmfs/smithereens/compare/v1.12.0...v1.13.0) (2018-10-23)
 
 
