@@ -1,3 +1,17 @@
+# [1.17.0](https://github.com/wmfs/smithereens/compare/v1.16.0...v1.17.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.1.0 to 4.1.1 ([29a60c0](https://github.com/wmfs/smithereens/commit/29a60c0))
+* **deps:** update make-dir requirement from 1.3.0 to 2.0.0 ([ebf7cbc](https://github.com/wmfs/smithereens/commit/ebf7cbc))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([4fae445](https://github.com/wmfs/smithereens/commit/4fae445))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([c57de86](https://github.com/wmfs/smithereens/commit/c57de86))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([edb1bc8](https://github.com/wmfs/smithereens/commit/edb1bc8))
+* **deps-dev:** update nyc requirement from 13.1.0 to 13.2.0 ([87e098a](https://github.com/wmfs/smithereens/commit/87e098a))
+* **deps-dev:** update semantic-release requirement ([95276e4](https://github.com/wmfs/smithereens/commit/95276e4))
+* **deps-dev:** update semantic-release requirement ([877e3a4](https://github.com/wmfs/smithereens/commit/877e3a4))
+
 # [1.16.0](https://github.com/wmfs/smithereens/compare/v1.15.0...v1.16.0) (2018-11-28)
 
 
