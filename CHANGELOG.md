@@ -1,3 +1,12 @@
+# [1.18.0](https://github.com/wmfs/smithereens/compare/v1.17.0...v1.18.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** update upath requirement from 1.1.0 to 1.1.2 ([0532e55](https://github.com/wmfs/smithereens/commit/0532e55))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([ac6dff4](https://github.com/wmfs/smithereens/commit/ac6dff4))
+* **deps-dev:** update semantic-release requirement ([52d1e0b](https://github.com/wmfs/smithereens/commit/52d1e0b))
+
 # [1.17.0](https://github.com/wmfs/smithereens/compare/v1.16.0...v1.17.0) (2019-02-08)
 
 
