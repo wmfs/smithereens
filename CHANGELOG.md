@@ -1,3 +1,11 @@
+# [1.20.0](https://github.com/wmfs/smithereens/compare/v1.19.0...v1.20.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** update glob requirement from 7.1.3 to 7.1.4 ([f2745a7](https://github.com/wmfs/smithereens/commit/f2745a7))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([e8de701](https://github.com/wmfs/smithereens/commit/e8de701))
+
 # [1.19.0](https://github.com/wmfs/smithereens/compare/v1.18.0...v1.19.0) (2019-07-02)
 
 
