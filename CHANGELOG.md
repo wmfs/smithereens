@@ -1,3 +1,12 @@
+# [1.19.0](https://github.com/wmfs/smithereens/compare/v1.18.0...v1.19.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** update make-dir requirement from 2.0.0 to 3.0.0 ([54b5f3f](https://github.com/wmfs/smithereens/commit/54b5f3f))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([534bd85](https://github.com/wmfs/smithereens/commit/534bd85))
+* **deps-dev:** update semantic-release requirement ([832cb9c](https://github.com/wmfs/smithereens/commit/832cb9c))
+
 # [1.18.0](https://github.com/wmfs/smithereens/compare/v1.17.0...v1.18.0) (2019-06-27)
 
 
