@@ -1,7 +1,7 @@
 # smithereens
 [![Tymly Package](https://img.shields.io/badge/tymly-package-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/smithereens.svg)](https://www.npmjs.com/package/@wmfs/smithereens)
-[![Build Status](https://travis-ci.org/wmfs/smithereens.svg?branch=master)](https://travis-ci.org/wmfs/smithereens)
+[![CircleCI](https://circleci.com/gh/wmfs/smithereens.svg?style=svg)](https://circleci.com/gh/wmfs/smithereens)
 [![codecov](https://codecov.io/gh/wmfs/smithereens/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/smithereens)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/smithereens/badge)](https://www.codefactor.io/repository/github/wmfs/smithereens)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
