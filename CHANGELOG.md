@@ -1,3 +1,22 @@
+# [1.21.0](https://github.com/wmfs/smithereens/compare/v1.20.0...v1.21.0) (2019-07-11)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([a78a47a](https://github.com/wmfs/smithereens/commit/a78a47a))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([94c6939](https://github.com/wmfs/smithereens/commit/94c6939))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([4829a52](https://github.com/wmfs/smithereens/commit/4829a52))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([e66a3c3](https://github.com/wmfs/smithereens/commit/e66a3c3))
+* **travis:** Remove Travis config ([1b38191](https://github.com/wmfs/smithereens/commit/1b38191))
+
 # [1.20.0](https://github.com/wmfs/smithereens/compare/v1.19.0...v1.20.0) (2019-07-02)
 
 
