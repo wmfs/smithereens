@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/wmfs/smithereens/compare/v1.21.0...v1.22.0) (2019-09-09)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([09f875a](https://github.com/wmfs/smithereens/commit/09f875a))
+
 # [1.21.0](https://github.com/wmfs/smithereens/compare/v1.20.0...v1.21.0) (2019-07-11)
 
 
