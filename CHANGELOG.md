@@ -1,3 +1,12 @@
+# [1.23.0](https://github.com/wmfs/smithereens/compare/v1.22.0...v1.23.0) (2019-10-03)
+
+
+### 🛠 Builds
+
+* **deps:** update several dependencies ([4487a58](https://github.com/wmfs/smithereens/commit/4487a58))
+* **deps-dev:** update dev dependancies ([ce20d2f](https://github.com/wmfs/smithereens/commit/ce20d2f))
+* **dev-deps:** revert standard ([3093565](https://github.com/wmfs/smithereens/commit/3093565))
+
 # [1.22.0](https://github.com/wmfs/smithereens/compare/v1.21.0...v1.22.0) (2019-09-09)
 
 
