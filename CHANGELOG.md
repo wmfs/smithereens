@@ -1,3 +1,12 @@
+# [1.24.0](https://github.com/wmfs/smithereens/compare/v1.23.0...v1.24.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob from 7.1.4 to 7.1.6 ([22533bf](https://github.com/wmfs/smithereens/commit/22533bf5b59ae159f63bf479ec5d96b5ef38a292))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([8a300ad](https://github.com/wmfs/smithereens/commit/8a300adc0f5ae35210a9d36b052f736d412f6d25))
+* **deps-dev:** bump packages ([04c45bc](https://github.com/wmfs/smithereens/commit/04c45bc33296bfb93a586c094752c224ee8fd74e))
+
 # [1.23.0](https://github.com/wmfs/smithereens/compare/v1.22.0...v1.23.0) (2019-10-03)
 
 
