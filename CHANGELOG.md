@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/wmfs/smithereens/compare/v1.24.0...v1.25.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([5d4389c](https://github.com/wmfs/smithereens/commit/5d4389cb0aecfe16d3e21a4b9286a9740a9dd2af))
+
 # [1.24.0](https://github.com/wmfs/smithereens/compare/v1.23.0...v1.24.0) (2020-01-07)
 
 
