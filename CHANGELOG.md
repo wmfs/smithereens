@@ -1,3 +1,10 @@
+# [1.26.0](https://github.com/wmfs/smithereens/compare/v1.25.0...v1.26.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump csv-string from 3.1.6 to 3.1.7 ([c866522](https://github.com/wmfs/smithereens/commit/c866522d955a106e919785188d0e9f00c0aeec3c))
+
 # [1.25.0](https://github.com/wmfs/smithereens/compare/v1.24.0...v1.25.0) (2020-01-07)
 
 
