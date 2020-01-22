@@ -1,3 +1,11 @@
+# [1.27.0](https://github.com/wmfs/smithereens/compare/v1.26.0...v1.27.0) (2020-01-22)
+
+
+### 🛠 Builds
+
+* **deps:** bump uuid from 3.3.3 to 3.4.0 ([5e07d2b](https://github.com/wmfs/smithereens/commit/5e07d2bc462d7176a0736df632f5dfb17b381c37))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([2f00762](https://github.com/wmfs/smithereens/commit/2f00762ccc4036cfe506cd096c84046bc3a62bee))
+
 # [1.26.0](https://github.com/wmfs/smithereens/compare/v1.25.0...v1.26.0) (2020-01-07)
 
 
