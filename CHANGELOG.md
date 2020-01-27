@@ -1,3 +1,19 @@
+# [1.28.0](https://github.com/wmfs/smithereens/compare/v1.27.0...v1.28.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump async from 3.1.0 to 3.1.1 ([b9a5f3b](https://github.com/wmfs/smithereens/commit/b9a5f3b75995170aec34b06f81fd1143aed3c3ff))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([bd6b510](https://github.com/wmfs/smithereens/commit/bd6b510001c1e4ac707a514812db7bd031b7a890))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([ef61eb1](https://github.com/wmfs/smithereens/commit/ef61eb1e26a161e839c23b8b05292a2a2363f4fd))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([f90366b](https://github.com/wmfs/smithereens/commit/f90366ba406d822e2804f58305b6e72d93361ad6))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([1fde225](https://github.com/wmfs/smithereens/commit/1fde225850d4173fa36c4a5fe5cd6093debc4063))
+* standard --fix ([5c4aeba](https://github.com/wmfs/smithereens/commit/5c4aeba8e85743938f33fe5c92410c70e21f8050))
+
 # [1.27.0](https://github.com/wmfs/smithereens/compare/v1.26.0...v1.27.0) (2020-01-22)
 
 
