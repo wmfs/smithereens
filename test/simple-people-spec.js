@@ -38,8 +38,8 @@ describe('Basic Smithereens tests', function () {
           {
             columnIndex: 3,
             valueToDirMap: {
-              'c': 'children',
-              'a': 'adults'
+              c: 'children',
+              a: 'adults'
             }
           }
         ],
@@ -58,7 +58,7 @@ describe('Basic Smithereens tests', function () {
               ]
 
             },
-            'd': {
+            d: {
               filename: 'deletes',
               outputColumns: [
                 { name: 'person_no', columnIndex: 0 }
@@ -78,7 +78,7 @@ describe('Basic Smithereens tests', function () {
               [
                 'children/changes.csv',
                 'adults/changes.csv',
-                'unknown/changes.csv' ],
+                'unknown/changes.csv'],
               deletes:
               [
                 'children/deletes.csv',
