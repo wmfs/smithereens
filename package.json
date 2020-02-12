@@ -30,7 +30,7 @@
     "hash-sum": "2.0.0",
     "jsonfile": "5.0.0",
     "lodash": "4.17.15",
-    "make-dir": "3.0.0",
+    "make-dir": "3.0.2",
     "pump": "3.0.0",
     "upath": "1.2.0",
     "uuid": "3.4.0"
