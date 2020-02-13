@@ -1,3 +1,17 @@
+# [1.29.0](https://github.com/wmfs/smithereens/compare/v1.28.0...v1.29.0) (2020-02-13)
+
+
+### 🛠 Builds
+
+* **deps:** bump make-dir from 3.0.0 to 3.0.2 ([89c9e59](https://github.com/wmfs/smithereens/commit/89c9e59f53a822cc72c33717c5470ef4d293b8ae))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([e2e0520](https://github.com/wmfs/smithereens/commit/e2e0520da0b29ebc320b6235cc573610db55552d))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([9580a2e](https://github.com/wmfs/smithereens/commit/9580a2eef73818731525cb789e518a3a6daf92b0))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([bda18c8](https://github.com/wmfs/smithereens/commit/bda18c81a6091cc00457a3bc45715eb21a7005b5))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([9bcb18f](https://github.com/wmfs/smithereens/commit/9bcb18f5f5eb1dcce82615d882a33ea19e53d99c))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([66551a0](https://github.com/wmfs/smithereens/commit/66551a06c7e6f08998b4e604e7ed2dc75c9f3676))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([d7f5076](https://github.com/wmfs/smithereens/commit/d7f50762932b8a3dee90d1b58120bd3b1711ecb7))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.3 ([81ed57c](https://github.com/wmfs/smithereens/commit/81ed57c02c98a8b5fbe1fed9eb7e4e5b41bec484))
+
 # [1.28.0](https://github.com/wmfs/smithereens/compare/v1.27.0...v1.28.0) (2020-01-27)
 
 
