@@ -1,3 +1,11 @@
+# [1.30.0](https://github.com/wmfs/smithereens/compare/v1.29.0...v1.30.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump csv-string from 3.1.7 to 3.1.8 ([3ba2b0f](https://github.com/wmfs/smithereens/commit/3ba2b0fa7cec48719f3855f42e471d78099590ca))
+* **deps-dev:** bump semantic-release from 17.0.3 to 17.0.4 ([8b9c232](https://github.com/wmfs/smithereens/commit/8b9c232702186958ab8860b63bbd920198dcb7f3))
+
 # [1.29.0](https://github.com/wmfs/smithereens/compare/v1.28.0...v1.29.0) (2020-02-13)
 
 
