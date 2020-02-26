@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/wmfs/smithereens/compare/v1.31.0...v1.32.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump async from 3.1.1 to 3.2.0 ([4b981a0](https://github.com/wmfs/smithereens/commit/4b981a0255bdd9ab5a4b86a21335167a339a3612))
+
 # [1.31.0](https://github.com/wmfs/smithereens/compare/v1.30.0...v1.31.0) (2020-02-26)
 
 
