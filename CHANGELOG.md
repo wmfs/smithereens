@@ -1,3 +1,10 @@
+# [1.33.0](https://github.com/wmfs/smithereens/compare/v1.32.0...v1.33.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump uuid from 3.4.0 to 7.0.1 ([259d55c](https://github.com/wmfs/smithereens/commit/259d55c26a279e12db50ac1c014330a32a7b114c))
+
 # [1.32.0](https://github.com/wmfs/smithereens/compare/v1.31.0...v1.32.0) (2020-02-26)
 
 
