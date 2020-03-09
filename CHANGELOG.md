@@ -1,3 +1,16 @@
+## [1.33.1](https://github.com/wmfs/smithereens/compare/v1.33.0...v1.33.1) (2020-03-09)
+
+
+### 🐛 Bug Fixes
+
+* Corrected uuid require for version 7.* ([07c1d08](https://github.com/wmfs/smithereens/commit/07c1d0854bb6196acf6c321881ecc6e27748136a))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([50e6889](https://github.com/wmfs/smithereens/commit/50e6889edd0f81148eb33e5bf1c3d858420eb2ab))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([0b0b054](https://github.com/wmfs/smithereens/commit/0b0b054a918f94cfdb5c8e59f2e0884232ee6587))
+
 # [1.33.0](https://github.com/wmfs/smithereens/compare/v1.32.0...v1.33.0) (2020-02-26)
 
 
