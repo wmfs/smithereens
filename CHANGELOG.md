@@ -1,3 +1,12 @@
+# [1.34.0](https://github.com/wmfs/smithereens/compare/v1.33.1...v1.34.0) (2020-03-18)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonfile from 6.0.0 to 6.0.1 ([a360955](https://github.com/wmfs/smithereens/commit/a36095525fe8fd769f08ff27b7a1638482c2442f))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([6e4a759](https://github.com/wmfs/smithereens/commit/6e4a759509a39d3064e262addf9967ab9b9240af))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([bd86701](https://github.com/wmfs/smithereens/commit/bd867018f5b7326d21327bed1407df47e17c03bf))
+
 ## [1.33.1](https://github.com/wmfs/smithereens/compare/v1.33.0...v1.33.1) (2020-03-09)
 
 
