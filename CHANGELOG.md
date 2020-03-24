@@ -1,3 +1,11 @@
+# [1.35.0](https://github.com/wmfs/smithereens/compare/v1.34.0...v1.35.0) (2020-03-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump csv-string from 3.1.8 to 3.2.0 ([e21354b](https://github.com/wmfs/smithereens/commit/e21354b75f7f82c3ae6ea7f7282f50e43a10b919))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([19038a9](https://github.com/wmfs/smithereens/commit/19038a9c55e43b48cd8a8d16296157853ca3b060))
+
 # [1.34.0](https://github.com/wmfs/smithereens/compare/v1.33.1...v1.34.0) (2020-03-18)
 
 
