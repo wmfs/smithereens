@@ -1,3 +1,16 @@
+# [1.36.0](https://github.com/wmfs/smithereens/compare/v1.35.0...v1.36.0) (2020-04-02)
+
+
+### 🛠 Builds
+
+* **deps:** bump uuid from 7.0.1 to 7.0.3 ([58d5b70](https://github.com/wmfs/smithereens/commit/58d5b70b19093bf5edb624c76ec77fbcbe8f3e1c))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([7b52fa5](https://github.com/wmfs/smithereens/commit/7b52fa576cb73d28991b774faeabfd3d4e1fa6b3))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([b33918b](https://github.com/wmfs/smithereens/commit/b33918bdf76f53fa051ca37411fd15efef901191))
+
 # [1.35.0](https://github.com/wmfs/smithereens/compare/v1.34.0...v1.35.0) (2020-03-24)
 
 
