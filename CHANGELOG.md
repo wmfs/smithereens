@@ -1,3 +1,14 @@
+# [1.37.0](https://github.com/wmfs/smithereens/compare/v1.36.0...v1.37.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Removed unused boom and dottie dependencies ([b39ac7b](https://github.com/wmfs/smithereens/commit/b39ac7b90d6f516f601d7c5d83615179eba60754))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([6a0301d](https://github.com/wmfs/smithereens/commit/6a0301d67ad2dc0a55e72959aa5fbeb6472e50b1))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([9a18f16](https://github.com/wmfs/smithereens/commit/9a18f16fce498efa6d6017ee0aed595fb579caff))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([33678ec](https://github.com/wmfs/smithereens/commit/33678eccdf62b02fb9fa9c882482ec0d7b039ba9))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([bb9c8e3](https://github.com/wmfs/smithereens/commit/bb9c8e327090b15fff0ad15ea7010846f5432a89))
+
 # [1.36.0](https://github.com/wmfs/smithereens/compare/v1.35.0...v1.36.0) (2020-04-02)
 
 
