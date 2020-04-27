@@ -8,8 +8,8 @@ const path = require('path')
 const smithereens = require('./../lib')
 
 describe('Basic Smithereens tests', function () {
-  it('should smash a simple CSV to smithereens (failure probably means the people.csv files end of line delimiter has incorrectly been set to CRLF)', function (done) {
-    smithereens(
+  it('should smash a simple CSV to smithereens (failure probably means the people.csv files end of line delimiter has incorrectly been set to CRLF)', async () => {
+    const manifest = await smithereens(
       [
         path.join(__dirname, 'fixtures', 'people.csv')
 
@@ -54,7 +54,8 @@ describe('Basic Smithereens tests', function () {
                 { name: 'last_name', columnIndex: 2 },
                 { name: 'hash_sum', type: 'hash' },
                 { name: 'integer', type: 'constant', value: 1 },
-                { name: 'string', type: 'constant', value: 'pig' }
+                { name: 'string', type: 'constant', value: 'pig' },
+                { name: 'uuid', type: 'uuid' }
               ]
 
             },
@@ -66,59 +67,54 @@ describe('Basic Smithereens tests', function () {
             }
           }
         }
-      },
+      }
+    )
 
-      function (err, manifest) {
-        expect(err).to.eql(null)
-        expect(manifest).to.containSubset(
+    expect(manifest).to.containSubset(
+      {
+        filenamePaths:
+        {
+          changes:
+          [
+            'children/changes.csv',
+            'adults/changes.csv',
+            'unknown/changes.csv'],
+          deletes:
+          [
+            'children/deletes.csv',
+            'adults/deletes.csv'
+          ],
+          unknown:
+          [
+            'children/unknown.csv'
+          ]
+        },
+        counts:
+        {
+          totalFileCount: 6,
+          totalLineCount: 7,
+          byFilename:
           {
-            filenamePaths:
-            {
-              changes:
-              [
-                'children/changes.csv',
-                'adults/changes.csv',
-                'unknown/changes.csv'],
-              deletes:
-              [
-                'children/deletes.csv',
-                'adults/deletes.csv'
-              ],
-              unknown:
-              [
-                'children/unknown.csv'
-              ]
-            },
-            counts:
-            {
-              totalFileCount: 6,
-              totalLineCount: 7,
-              byFilename:
-              {
-                changes: 4,
-                deletes: 2,
-                unknown: 1
-              },
-              byDir:
-              {
-                children: 4,
-                adults: 2,
-                unknown: 1
-              },
-              byFile:
-              {
-                'children/changes.csv': 2,
-                'adults/changes.csv': 1,
-                'children/deletes.csv': 1,
-                'adults/deletes.csv': 1,
-                'children/unknown.csv': 1,
-                'unknown/changes.csv': 1
-              }
-            }
+            changes: 4,
+            deletes: 2,
+            unknown: 1
+          },
+          byDir:
+          {
+            children: 4,
+            adults: 2,
+            unknown: 1
+          },
+          byFile:
+          {
+            'children/changes.csv': 2,
+            'adults/changes.csv': 1,
+            'children/deletes.csv': 1,
+            'adults/deletes.csv': 1,
+            'children/unknown.csv': 1,
+            'unknown/changes.csv': 1
           }
-        )
-
-        done()
+        }
       }
     )
   })
