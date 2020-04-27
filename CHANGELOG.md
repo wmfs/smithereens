@@ -1,3 +1,42 @@
+# [1.38.0](https://github.com/wmfs/smithereens/compare/v1.37.0...v1.38.0) (2020-04-27)
+
+
+### ✨ Features
+
+* **interface:** Switch smithereens to return a promise instead of taking a callback ([5ee3a05](https://github.com/wmfs/smithereens/commit/5ee3a058c8397c11e1f8e421f43591c3eaec2e3a))
+
+
+### 🐛 Bug Fixes
+
+* **File-builder:** Get rid of callbacks in writeStreamInfo ([732c874](https://github.com/wmfs/smithereens/commit/732c8743ca652332b10d75c94a151a2bc98fe6f4))
+* Eliminated async package. Flipped functions from callbacks to promises ([ee28edc](https://github.com/wmfs/smithereens/commit/ee28edcd829be7c2b4250a168dcc23b88d235a28))
+* Eliminated callback at the top-level. ([68d03d9](https://github.com/wmfs/smithereens/commit/68d03d97b20bb69824bf7c4b6c0f17db3e181805))
+
+
+### 🛠 Builds
+
+* **deps:** Don't need lodash any more ([771509f](https://github.com/wmfs/smithereens/commit/771509fda00beaf86caee45a3cb66fc5ce648143))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([c0cb956](https://github.com/wmfs/smithereens/commit/c0cb956b6c1379b5a5c111044a749c59f0528041))
+
+
+### 📦 Code Refactoring
+
+* **FileWriter:** Flipped _write implementation to async/await ([bbd24d4](https://github.com/wmfs/smithereens/commit/bbd24d4073cb1d7bc87f9e66e571792bd729337a))
+* Pull write-to-stream out into its own file ([12f1172](https://github.com/wmfs/smithereens/commit/12f117271bcfefdec044848932598ec764cedfdf))
+* **File-builder:** Don't need lodash in manifest() ([d6d0f6b](https://github.com/wmfs/smithereens/commit/d6d0f6bca91b87c31d2e6d6d85b7621a38427176))
+* **File-builder:** Early returns in columnIndexDirSplit ([4060948](https://github.com/wmfs/smithereens/commit/406094879f7cfe94302ba054fb748fedf0778e1d))
+* **File-builder:** More to the point function names ([51de697](https://github.com/wmfs/smithereens/commit/51de697ee51f09dfbd189ad1bfcb61c46ac5f94e))
+* **File-builder:** Neatened dirSplit handling. ([16257e0](https://github.com/wmfs/smithereens/commit/16257e06a8a93571c54a69e9a16f7b750aa23de8))
+* **File-builder:** Pulled createWriteStream out of writeStreamInfo ([c10c9ae](https://github.com/wmfs/smithereens/commit/c10c9ae42736d525979c3a66936691b8389f0366))
+* **File-builder:** Pulled findMatchingKey out of columnIndexFileConfigFunction ([231b2f3](https://github.com/wmfs/smithereens/commit/231b2f3fa80f666da57665ab10a10789035d4e64))
+* **File-builder:** Reworked close ([4ae8d0b](https://github.com/wmfs/smithereens/commit/4ae8d0b6f15f832d7e13a5810048c55c1dc42db1))
+* **Transformer:** Stripped down transformer to simplify ([3c82bde](https://github.com/wmfs/smithereens/commit/3c82bdeb80892b1b7c2d222bff33d47d01b715fc))
+
+
+### 🚨 Tests
+
+* Add uuid output column to extend coverage :) ([7aa088f](https://github.com/wmfs/smithereens/commit/7aa088f9c300ea355d64a6eaa48d1dba7e9bbf7e))
+
 # [1.37.0](https://github.com/wmfs/smithereens/compare/v1.36.0...v1.37.0) (2020-04-22)
 
 
