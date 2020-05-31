@@ -1,3 +1,10 @@
+# [1.40.0](https://github.com/wmfs/smithereens/compare/v1.39.0...v1.40.0) (2020-05-31)
+
+
+### 🛠 Builds
+
+* **deps:** bump make-dir from 3.0.2 to 3.1.0 ([ec26258](https://github.com/wmfs/smithereens/commit/ec262585fab064890a7a9dccf04df53acedbc586))
+
 # [1.39.0](https://github.com/wmfs/smithereens/compare/v1.38.0...v1.39.0) (2020-05-31)
 
 
