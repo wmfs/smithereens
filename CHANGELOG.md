@@ -1,3 +1,15 @@
+# [1.39.0](https://github.com/wmfs/smithereens/compare/v1.38.0...v1.39.0) (2020-05-31)
+
+
+### 🛠 Builds
+
+* **deps:** bump csv-string from 3.2.0 to 4.0.1 ([5c0599f](https://github.com/wmfs/smithereens/commit/5c0599fc75386f7062b0b71f838608631fbb48b3))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([3b6aa38](https://github.com/wmfs/smithereens/commit/3b6aa382f640124278b0d306070f718ff6b51146))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([ff5f6be](https://github.com/wmfs/smithereens/commit/ff5f6bef52ca76a60f23e764184c6c2fa9fbfd8b))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([85f43a4](https://github.com/wmfs/smithereens/commit/85f43a43828fa83760a8bec8da20779c54317f10))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([a8fb828](https://github.com/wmfs/smithereens/commit/a8fb82877b8f8425edaf3f2dede4dc3b081a0121))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([7beaa17](https://github.com/wmfs/smithereens/commit/7beaa179e3e510d9c065f3248ea9d94c20f9621a))
+
 # [1.38.0](https://github.com/wmfs/smithereens/compare/v1.37.0...v1.38.0) (2020-04-27)
 
 
