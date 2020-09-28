@@ -1,3 +1,29 @@
+# [1.41.0](https://github.com/wmfs/smithereens/compare/v1.40.0...v1.41.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.1.1 to 4.2.0 ([6cc92d9](https://github.com/wmfs/smithereens/commit/6cc92d98bcfce1e7929af9493213ec93c2a03f5c))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([0eaf025](https://github.com/wmfs/smithereens/commit/0eaf025bda6aa711c7289c5f44ce995ef73616ef))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([a7404d6](https://github.com/wmfs/smithereens/commit/a7404d6666cdd3d60483702e4436b161279776b0))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([bc72008](https://github.com/wmfs/smithereens/commit/bc72008f532ef06d625e269d3d4607898ce6af14))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([3dd4591](https://github.com/wmfs/smithereens/commit/3dd4591ee0214c8b6a689fe7bda5b2282a4e622c))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([e532b41](https://github.com/wmfs/smithereens/commit/e532b41f6bbe9c81204d76d8b8e4ef04ce163ffe))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([2924249](https://github.com/wmfs/smithereens/commit/292424950df1d90d9a9d92a7259213502163633e))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([773a49d](https://github.com/wmfs/smithereens/commit/773a49d685e3bca9905ab3a1b48b5ba2b7e3f4b4))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([05ecb1a](https://github.com/wmfs/smithereens/commit/05ecb1aa16afa3b8065b66a7b128bfb53b26cbc4))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([8aa29db](https://github.com/wmfs/smithereens/commit/8aa29dbb6ce7c53eb29373ddd052aa665b480ed9))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([c0949c1](https://github.com/wmfs/smithereens/commit/c0949c1ad3f6285359f657c91c12f7958b21a393))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([d9becc2](https://github.com/wmfs/smithereens/commit/d9becc2c984f0efeb47f3749208b670e198fcd73))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([a2dff50](https://github.com/wmfs/smithereens/commit/a2dff5081dc556c3429e6e29a0157a3e4602c28f))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([c286822](https://github.com/wmfs/smithereens/commit/c28682214c3deaf700c9d7e9a0434d15d707cfc6))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([eee8d08](https://github.com/wmfs/smithereens/commit/eee8d0808b83498bdd1d4b98657d3e7b2a08ef15))
+* **circle:** use updated circle node image [skip ci] ([a775cb8](https://github.com/wmfs/smithereens/commit/a775cb87a22c0aa687b9a7b6bde91e28acd66d58))
+
 # [1.40.0](https://github.com/wmfs/smithereens/compare/v1.39.0...v1.40.0) (2020-05-31)
 
 
