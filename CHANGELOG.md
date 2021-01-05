@@ -1,3 +1,35 @@
+# [1.42.0](https://github.com/wmfs/smithereens/compare/v1.41.0...v1.42.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.2.0 to 4.3.1 ([1ab7782](https://github.com/wmfs/smithereens/commit/1ab7782a17d90667c99269308f91094576d5312b))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([52f87a1](https://github.com/wmfs/smithereens/commit/52f87a1313fa692ac0bb11c7f972a574c870793b))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([842e65e](https://github.com/wmfs/smithereens/commit/842e65e49458d4a0da0af919471cc3a1ff74c6ea))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([73adac2](https://github.com/wmfs/smithereens/commit/73adac2469d0c57a3792dd8614ac0e7de6d7df78))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([ec58d58](https://github.com/wmfs/smithereens/commit/ec58d58bc2733e4d53466561eb1297707f9a9d23))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([ac1d5ea](https://github.com/wmfs/smithereens/commit/ac1d5ea6a5284447037b9a7c88c2839ccd8c2fdd))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([4c37315](https://github.com/wmfs/smithereens/commit/4c37315795f9ecabccac8c3822f418fa03bdd951))
+* **deps-dev:** bump semantic-release from 17.2.1 to 17.2.2 ([5412e79](https://github.com/wmfs/smithereens/commit/5412e7959a49739e98b6fdba6bb6d43624470a57))
+* **deps-dev:** bump semantic-release from 17.2.2 to 17.2.3 ([6fe08f9](https://github.com/wmfs/smithereens/commit/6fe08f94c9d1e9eac70faff03b97c1c1cf40e038))
+* **deps-dev:** bump semantic-release from 17.2.3 to 17.2.4 ([37c467f](https://github.com/wmfs/smithereens/commit/37c467f816a126b64988b89d8e95557e5523b092))
+* **deps-dev:** bump semantic-release from 17.2.4 to 17.3.0 ([43592b0](https://github.com/wmfs/smithereens/commit/43592b0cdda0a6569d46d4daf05280f05ee3284a))
+* **deps-dev:** bump semantic-release from 17.3.0 to 17.3.1 ([6404e32](https://github.com/wmfs/smithereens/commit/6404e32356176493ad0b5c9292e6277db63c861f))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([045d5f0](https://github.com/wmfs/smithereens/commit/045d5f06edecd02cabe2bdacfdceff300d30d918))
+* **deps-dev:** bump standard from 15.0.0 to 15.0.1 ([7a870e4](https://github.com/wmfs/smithereens/commit/7a870e47633a8883c118a9abff66bd2b21ca89a9))
+* **deps-dev:** bump standard from 15.0.1 to 16.0.0 ([16589bb](https://github.com/wmfs/smithereens/commit/16589bb9580ccc223c2f2ee81dc238af4ab9c185))
+* **deps-dev:** bump standard from 16.0.0 to 16.0.1 ([639f65e](https://github.com/wmfs/smithereens/commit/639f65e2340971a157d4126b8d9ee483d4be6d10))
+* **deps-dev:** bump standard from 16.0.1 to 16.0.2 ([e3055d7](https://github.com/wmfs/smithereens/commit/e3055d7b3d4ea8f193794516a6996dd661e6e90f))
+* **deps-dev:** bump standard from 16.0.2 to 16.0.3 ([9265391](https://github.com/wmfs/smithereens/commit/926539157ae7920de709c0f3aa695208de37323a))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([fa31066](https://github.com/wmfs/smithereens/commit/fa31066e278874a86d28ed53624c788dac055f6a))
+* **circle:** cache dependencies [ch2770] ([fb137c7](https://github.com/wmfs/smithereens/commit/fb137c7c43b53f42656523969e35b9347ce82a96))
+* **circle:** separate linting job [ch1009] ([4803641](https://github.com/wmfs/smithereens/commit/4803641ff5b5a0ccac575862d756798ca28469d6))
+* **circle:** update build environment variable context name [ch2771] ([301841d](https://github.com/wmfs/smithereens/commit/301841dc464c0509eba45661b1f8bdb0e79be6b3))
+
 # [1.41.0](https://github.com/wmfs/smithereens/compare/v1.40.0...v1.41.0) (2020-09-28)
 
 
