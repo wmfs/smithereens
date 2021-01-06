@@ -1,3 +1,10 @@
+# [1.43.0](https://github.com/wmfs/smithereens/compare/v1.42.0...v1.43.0) (2021-01-06)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsonfile from 6.0.1 to 6.1.0 ([f00eb2c](https://github.com/wmfs/smithereens/commit/f00eb2cb25ea3c1e7b05b0412682dedd28a283c7))
+
 # [1.42.0](https://github.com/wmfs/smithereens/compare/v1.41.0...v1.42.0) (2021-01-05)
 
 
