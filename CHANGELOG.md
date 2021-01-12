@@ -1,3 +1,10 @@
+# [1.44.0](https://github.com/wmfs/smithereens/compare/v1.43.0...v1.44.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump upath from 1.2.0 to 2.0.1 ([35e29c0](https://github.com/wmfs/smithereens/commit/35e29c0fb65d834937011362bcd8e54cb61f301f))
+
 # [1.43.0](https://github.com/wmfs/smithereens/compare/v1.42.0...v1.43.0) (2021-01-06)
 
 
