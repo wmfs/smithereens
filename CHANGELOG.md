@@ -1,3 +1,32 @@
+# [1.46.0](https://github.com/wmfs/smithereens/compare/v1.45.0...v1.46.0) (2021-05-21)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob from 7.1.6 to 7.1.7 ([73ea8e3](https://github.com/wmfs/smithereens/commit/73ea8e339ad90f25990f17fd20ca9f3e1da66a83))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([cc52550](https://github.com/wmfs/smithereens/commit/cc52550e1fdc39b76627ee4f4a0e00cb201dc6dd))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([dc9b7fb](https://github.com/wmfs/smithereens/commit/dc9b7fbcf773ba6f5adf078c6814ea1f143a93e7))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([a4aa09d](https://github.com/wmfs/smithereens/commit/a4aa09d21e7ba78bedf380216a8e6f7390f50342))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([8fa353c](https://github.com/wmfs/smithereens/commit/8fa353c03e31125224e52b155dec50e015fc5679))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([bbe1daa](https://github.com/wmfs/smithereens/commit/bbe1daa6c6f24c05b4da243c908b32718c556c84))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([20b80ea](https://github.com/wmfs/smithereens/commit/20b80eaf47132fd8eae25091ef99dac43c4f3c64))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([85af3e6](https://github.com/wmfs/smithereens/commit/85af3e62f3864d4c61d32167d0ce6f9c5731f5bb))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([332a8fe](https://github.com/wmfs/smithereens/commit/332a8fe9170a715fd8b7968356f3dac74062ece1))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([107ab94](https://github.com/wmfs/smithereens/commit/107ab94f415e9ff9c20f99d338ed6dc81260a69d))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([53a74e8](https://github.com/wmfs/smithereens/commit/53a74e801c0a0f491397ca9f589ecc95adb2e61e))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([75de716](https://github.com/wmfs/smithereens/commit/75de716d6ea5c44a00409c972f90909b14fb6dc5))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([2afa176](https://github.com/wmfs/smithereens/commit/2afa176557197c39d5111548c811adee5ad28fed))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([b56f929](https://github.com/wmfs/smithereens/commit/b56f9296667669c34fe97508a4fca640307da7d7))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([5a49380](https://github.com/wmfs/smithereens/commit/5a493805787e5bafc0f85755ffe08cd5b3a8df88))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([5712da7](https://github.com/wmfs/smithereens/commit/5712da76f3a524a7f416053e2074a4441bee5c17))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([1e6a2ae](https://github.com/wmfs/smithereens/commit/1e6a2aec316f627eedd9b4cbd3be958d8508c73d))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([a1f9089](https://github.com/wmfs/smithereens/commit/a1f9089c7a47c9eef7efa01265b6abefd9dddb82))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([84e04e3](https://github.com/wmfs/smithereens/commit/84e04e36aec0b5f63f1992ea333739bb1bcf2316))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([98f62a8](https://github.com/wmfs/smithereens/commit/98f62a83104fd22481f9b106dd89a3504774fd88))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([9ee3e6f](https://github.com/wmfs/smithereens/commit/9ee3e6f1d9b964be1877c4883683329b65ad99e0))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([735777a](https://github.com/wmfs/smithereens/commit/735777afe696c49c0c9caffed13f90c47134fb55))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([538e7d8](https://github.com/wmfs/smithereens/commit/538e7d80b9d861d508f2f754f1b2bf615850a5c8))
+
 # [1.45.0](https://github.com/wmfs/smithereens/compare/v1.44.0...v1.45.0) (2021-01-12)
 
 
