@@ -1,3 +1,14 @@
+# [1.47.0](https://github.com/wmfs/smithereens/compare/v1.46.0...v1.47.0) (2021-07-09)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.3.1 to 4.3.2 ([0e7cde6](https://github.com/wmfs/smithereens/commit/0e7cde64820c1c2c1338b13160e1a68ce5e4b54c))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([b2ba6cf](https://github.com/wmfs/smithereens/commit/b2ba6cf2a23012ba8c212b9c8fa11daf57a53d69))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([c1e51ce](https://github.com/wmfs/smithereens/commit/c1e51ce49203132d9e1b4bdade947e01c26a5b35))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([ada0af1](https://github.com/wmfs/smithereens/commit/ada0af1e18f192fb621d7a0e8d598987cec34573))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([702992c](https://github.com/wmfs/smithereens/commit/702992cd87699e23582c385ae675491ca5440954))
+
 # [1.46.0](https://github.com/wmfs/smithereens/compare/v1.45.0...v1.46.0) (2021-05-21)
 
 
