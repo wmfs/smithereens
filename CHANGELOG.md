@@ -1,3 +1,34 @@
+# [1.48.0](https://github.com/wmfs/smithereens/compare/v1.47.0...v1.48.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([c187183](https://github.com/wmfs/smithereens/commit/c187183ce4be721eee2c359dddad6e0124aeba7a))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([e611eca](https://github.com/wmfs/smithereens/commit/e611eca6102fef8853fe861065801179cc0468c1))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([39e40bc](https://github.com/wmfs/smithereens/commit/39e40bcbe381b453fbbf7ad08d8d35655bc70a9f))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([cea3f4f](https://github.com/wmfs/smithereens/commit/cea3f4f509b1a7c0b6e473d186d7cb483903b7b6))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([19d6c2f](https://github.com/wmfs/smithereens/commit/19d6c2f4622975235926cf029daa414d8995a20f))
+* **deps-dev:** update dependency mocha to v9.1.0 ([c7b2a4c](https://github.com/wmfs/smithereens/commit/c7b2a4cb12bc2365c7a83c16f932dd8b76fdcf38))
+* **deps-dev:** update dependency mocha to v9.1.1 ([c959b78](https://github.com/wmfs/smithereens/commit/c959b783fe813f8bdcc7f09b7df05b057d1b1a1d))
+* **deps-dev:** update dependency mocha to v9.1.2 ([0f65020](https://github.com/wmfs/smithereens/commit/0f65020605ec9e5a0b1db640cc4b37a61489bd32))
+* **deps-dev:** update dependency mocha to v9.1.3 ([458d1f1](https://github.com/wmfs/smithereens/commit/458d1f1d0fd97a40d6f9834eb6603c88124b1cdf))
+* **deps-dev:** update dependency mocha to v9.1.4 ([0f91d1a](https://github.com/wmfs/smithereens/commit/0f91d1a8de4236dd333977db065ed64b3112da68))
+* **deps-dev:** update dependency mocha to v9.2.0 ([b0fb994](https://github.com/wmfs/smithereens/commit/b0fb994a90cdac66706a39cde222be3fc828152a))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([594f505](https://github.com/wmfs/smithereens/commit/594f505c1e31113577d7f29c8ff3c724754e3ab7))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([955b278](https://github.com/wmfs/smithereens/commit/955b27836452d15e5000fe66eb1756031cf35cb8))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([5e060a8](https://github.com/wmfs/smithereens/commit/5e060a8309b7c758ae968d2014babae1c6a47c35))
+* **deps-dev:** update dependency semantic-release to v18 ([2958720](https://github.com/wmfs/smithereens/commit/2958720df81110096354abd1504d6c9d66426901))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([ab7fb8f](https://github.com/wmfs/smithereens/commit/ab7fb8f2e221df0db0a2017500fc51a523a3b3a7))
+* **deps-dev:** update dependency semantic-release to v19 ([cca67c7](https://github.com/wmfs/smithereens/commit/cca67c7bf81a2078725527e78b6c41bf6fea18d2))
+* **deps-dev:** update dependency standard to v16.0.4 ([318e5f0](https://github.com/wmfs/smithereens/commit/318e5f08287dd1a0313c5299a55428d8b2913926))
+* **deps-dev:** update semantic-release monorepo ([ce33c4c](https://github.com/wmfs/smithereens/commit/ce33c4c0c5f6a5d367ba96b46551c0b65684978c))
+* **deps:** update dependency glob to v7.2.0 ([288db1e](https://github.com/wmfs/smithereens/commit/288db1ea1fd107b9608fea30d1635b7eb8a0eff3))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([6f75555](https://github.com/wmfs/smithereens/commit/6f75555e66d2a051d8d1a179f839e77917b5552a))
+
 # [1.47.0](https://github.com/wmfs/smithereens/compare/v1.46.0...v1.47.0) (2021-07-09)
 
 
