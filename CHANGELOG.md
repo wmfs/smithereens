@@ -1,3 +1,18 @@
+# [1.49.0](https://github.com/wmfs/smithereens/compare/v1.48.0...v1.49.0) (2022-11-01)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency chai to v4.3.6 ([b631b0b](https://github.com/wmfs/smithereens/commit/b631b0b918f1f9f2828e7cb30f032c26b31c240a))
+* **deps-dev:** update dependency mocha to v10 ([33ccf8f](https://github.com/wmfs/smithereens/commit/33ccf8f9fce56f3e23dd0fdf39ec76cdf4064b6d))
+* **deps-dev:** update dependency mocha to v10.1.0 ([8fd662d](https://github.com/wmfs/smithereens/commit/8fd662ddff68538a6ec956e86dfa4a408147e37e))
+* **deps-dev:** update dependency mocha to v9.2.1 ([cdd5584](https://github.com/wmfs/smithereens/commit/cdd5584d33e263d220017b9fbf04f6156de216d2))
+* **deps-dev:** update dependency mocha to v9.2.2 ([c469e83](https://github.com/wmfs/smithereens/commit/c469e83936ddda470d30a50eb2a1a1d098738b91))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([2baaa4f](https://github.com/wmfs/smithereens/commit/2baaa4f39af411089bbf27479b270288c14b4539))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([bdee742](https://github.com/wmfs/smithereens/commit/bdee742a09056929962cde4e7cb3c739f0e8679b))
+* **deps-dev:** update dependency standard to v17 ([8ac1b05](https://github.com/wmfs/smithereens/commit/8ac1b0548afeaea5cc0f0c383e52f1c8a95b30b6))
+* **deps:** update dependency uuid to v9 ([8cabac1](https://github.com/wmfs/smithereens/commit/8cabac119d4d9017bb554b4b36adbd8c41c269f4))
+
 # [1.48.0](https://github.com/wmfs/smithereens/compare/v1.47.0...v1.48.0) (2022-01-25)
 
 
