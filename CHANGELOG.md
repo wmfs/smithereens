@@ -1,3 +1,10 @@
+# [1.50.0](https://github.com/wmfs/smithereens/compare/v1.49.0...v1.50.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency glob to v7.2.3 ([cebc962](https://github.com/wmfs/smithereens/commit/cebc962aef40a77ca59d5f09e9ed5d8dc29e5335))
+
 # [1.49.0](https://github.com/wmfs/smithereens/compare/v1.48.0...v1.49.0) (2022-11-01)
 
 
