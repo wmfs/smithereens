@@ -1,3 +1,10 @@
+# [1.51.0](https://github.com/wmfs/smithereens/compare/v1.50.0...v1.51.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency glob to v8 ([72732a5](https://github.com/wmfs/smithereens/commit/72732a5b6abf9e8d907f67d08f09f73c9320e9b6))
+
 # [1.50.0](https://github.com/wmfs/smithereens/compare/v1.49.0...v1.50.0) (2022-11-02)
 
 
