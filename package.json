@@ -21,7 +21,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "csv-streamify": "4.0.0",
-    "csv-string": "4.0.1",
+    "csv-string": "4.1.1",
     "debug": "4.3.2",
     "glob": "8.0.3",
     "hash-sum": "2.0.0",
