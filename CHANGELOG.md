@@ -1,3 +1,10 @@
+# [1.53.0](https://github.com/wmfs/smithereens/compare/v1.52.0...v1.53.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.4 ([653d664](https://github.com/wmfs/smithereens/commit/653d6646218f8368741855b0a0fe3d14a4c186ea))
+
 # [1.52.0](https://github.com/wmfs/smithereens/compare/v1.51.0...v1.52.0) (2022-11-02)
 
 
