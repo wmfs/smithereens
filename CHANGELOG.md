@@ -1,3 +1,10 @@
+# [1.52.0](https://github.com/wmfs/smithereens/compare/v1.51.0...v1.52.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency csv-string to v4.1.1 ([417e509](https://github.com/wmfs/smithereens/commit/417e509d73f604505bd396849c705c2ccd6d69fc))
+
 # [1.51.0](https://github.com/wmfs/smithereens/compare/v1.50.0...v1.51.0) (2022-11-02)
 
 
