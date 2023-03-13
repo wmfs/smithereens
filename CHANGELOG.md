@@ -1,3 +1,20 @@
+# [1.54.0](https://github.com/wmfs/smithereens/compare/v1.53.0...v1.54.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([6f11a46](https://github.com/wmfs/smithereens/commit/6f11a46fb640ed4bf5c37faeae1c3dd2e2c43dc1))
+* **deps-dev:** update dependency chai to v4.3.7 ([5ce0753](https://github.com/wmfs/smithereens/commit/5ce07537480ad2781101080e5385a32e969eb459))
+* **deps-dev:** update dependency mocha to v10.2.0 ([2f14dc2](https://github.com/wmfs/smithereens/commit/2f14dc29b4bd6ed8c552fc537bf3c3fdbe1a82bd))
+* **deps-dev:** update dependency semantic-release to v20 ([e8a3db3](https://github.com/wmfs/smithereens/commit/e8a3db3337586f78a5560db73af6db66fc208b94))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([f5a037a](https://github.com/wmfs/smithereens/commit/f5a037ab8dab4ccbe1f7db12d7f13522a6a32739))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([bf034f7](https://github.com/wmfs/smithereens/commit/bf034f7521511e787e908e5fe6ac91e781c330a8))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([cbafae5](https://github.com/wmfs/smithereens/commit/cbafae5fa89d6597a1e89997b43e18e88e56d6d4))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([003feba](https://github.com/wmfs/smithereens/commit/003febabf91991941cf4befb1d8acaf2ca47b497))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([a6de25a](https://github.com/wmfs/smithereens/commit/a6de25ae6e63272c95cf56cd57e927dfbb752b59))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([fe84005](https://github.com/wmfs/smithereens/commit/fe84005b6ccceaa1daeb05990a6a9c0a53fce90b))
+* **deps:** update dependency glob to v8.1.0 ([a87e48a](https://github.com/wmfs/smithereens/commit/a87e48a72dd712513c7a77e1ab0b6bae7e3a6f11))
+
 # [1.53.0](https://github.com/wmfs/smithereens/compare/v1.52.0...v1.53.0) (2022-11-02)
 
 
