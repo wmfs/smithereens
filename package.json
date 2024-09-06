@@ -22,7 +22,7 @@
   "dependencies": {
     "csv-streamify": "4.0.0",
     "csv-string": "4.1.1",
-    "debug": "4.3.4",
+    "debug": "4.3.7",
     "glob": "8.1.0",
     "hash-sum": "2.0.0",
     "jsonfile": "6.1.0",
