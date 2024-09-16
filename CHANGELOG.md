@@ -1,3 +1,10 @@
+## [1.55.1](https://github.com/wmfs/smithereens/compare/v1.55.0...v1.55.1) (2024-09-16)
+
+
+### Bug Fixes
+
+* set windowsPathsNoEscape to true when using glob ([#385](https://github.com/wmfs/smithereens/issues/385)) ([d5dd317](https://github.com/wmfs/smithereens/commit/d5dd3173ea95efc971088999137d4c10f17948b7))
+
 # [1.55.0](https://github.com/wmfs/smithereens/compare/v1.54.0...v1.55.0) (2024-07-02)
 
 # [1.54.0](https://github.com/wmfs/smithereens/compare/v1.53.0...v1.54.0) (2023-03-13)
