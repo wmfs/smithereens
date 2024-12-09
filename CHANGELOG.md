@@ -1,3 +1,5 @@
+# [1.62.0](https://github.com/wmfs/smithereens/compare/v1.61.0...v1.62.0) (2024-12-09)
+
 # [1.61.0](https://github.com/wmfs/smithereens/compare/v1.60.0...v1.61.0) (2024-11-12)
 
 # [1.60.0](https://github.com/wmfs/smithereens/compare/v1.59.0...v1.60.0) (2024-11-04)
