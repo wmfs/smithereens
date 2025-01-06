@@ -1,3 +1,11 @@
+## [1.63.0](https://github.com/wmfs/smithereens/compare/v1.62.0...v1.63.0) (2025-01-06)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#399](https://github.com/wmfs/smithereens/issues/399)) ([d747e0f](https://github.com/wmfs/smithereens/commit/d747e0fe3f9dbde25a8624b54264deb83bb4f785))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#398](https://github.com/wmfs/smithereens/issues/398)) ([fb4a610](https://github.com/wmfs/smithereens/commit/fb4a6103f90ab80429f88e33c1506bd87cc106cf))
+* **deps:** update dependency uuid to v11.0.4 ([#397](https://github.com/wmfs/smithereens/issues/397)) ([59544a6](https://github.com/wmfs/smithereens/commit/59544a6ea4c6224cf43b74261d7b3bf430f5e388))
+
 # [1.62.0](https://github.com/wmfs/smithereens/compare/v1.61.0...v1.62.0) (2024-12-09)
 
 # [1.61.0](https://github.com/wmfs/smithereens/compare/v1.60.0...v1.61.0) (2024-11-12)
