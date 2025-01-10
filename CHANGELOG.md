@@ -1,3 +1,9 @@
+## [1.64.0](https://github.com/wmfs/smithereens/compare/v1.63.0...v1.64.0) (2025-01-10)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency uuid to v11.0.5 ([#400](https://github.com/wmfs/smithereens/issues/400)) ([d846f3e](https://github.com/wmfs/smithereens/commit/d846f3e2c60fd5923da8915441daca09b3c7c46a))
+
 ## [1.63.0](https://github.com/wmfs/smithereens/compare/v1.62.0...v1.63.0) (2025-01-06)
 
 ### Build system dependencies :hammer:
