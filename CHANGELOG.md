@@ -1,3 +1,9 @@
+## [1.67.0](https://github.com/wmfs/smithereens/compare/v1.66.0...v1.67.0) (2025-04-25)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency glob to v11.0.2 ([#406](https://github.com/wmfs/smithereens/issues/406)) ([cd6ab52](https://github.com/wmfs/smithereens/commit/cd6ab5237800f786609ef8d829e0c4d9302538c1))
+
 ## [1.66.0](https://github.com/wmfs/smithereens/compare/v1.65.0...v1.66.0) (2025-02-20)
 
 ### Build system dependencies :hammer:
