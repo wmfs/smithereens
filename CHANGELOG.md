@@ -1,3 +1,10 @@
+## [1.68.0](https://github.com/wmfs/smithereens/compare/v1.67.0...v1.68.0) (2025-05-14)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency mocha to v11.2.2 ([#407](https://github.com/wmfs/smithereens/issues/407)) ([a1650de](https://github.com/wmfs/smithereens/commit/a1650dec5830a0fd9a1668c1532be00ceccb8d3c))
+* **deps:** update dependency debug to v4.4.1 ([#408](https://github.com/wmfs/smithereens/issues/408)) ([b134c95](https://github.com/wmfs/smithereens/commit/b134c956baa7d57fc3d0ca6aee3a355a507d4445))
+
 ## [1.67.0](https://github.com/wmfs/smithereens/compare/v1.66.0...v1.67.0) (2025-04-25)
 
 ### Build system dependencies :hammer:
