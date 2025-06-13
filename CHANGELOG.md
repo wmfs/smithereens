@@ -1,3 +1,16 @@
+## [1.69.0](https://github.com/wmfs/smithereens/compare/v1.68.0...v1.69.0) (2025-06-13)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9 ([#412](https://github.com/wmfs/smithereens/issues/412)) ([56df59d](https://github.com/wmfs/smithereens/commit/56df59d7202cf245a31160ce1800ea9fc9a1f539))
+* **deps-dev:** update dependency mocha to v11.3.0 ([#409](https://github.com/wmfs/smithereens/issues/409)) ([f52fbb4](https://github.com/wmfs/smithereens/commit/f52fbb41bcf0296716abdca9a39ca505b976c99f))
+* **deps-dev:** update dependency mocha to v11.4.0 ([#411](https://github.com/wmfs/smithereens/issues/411)) ([b1d9a2e](https://github.com/wmfs/smithereens/commit/b1d9a2e3bc32b3473c9aa423f1e56aa2f3be2e1d))
+* **deps-dev:** update dependency mocha to v11.5.0 ([#414](https://github.com/wmfs/smithereens/issues/414)) ([917e5be](https://github.com/wmfs/smithereens/commit/917e5be704df152668b6d58b9e1386eb0c1b8b63))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#415](https://github.com/wmfs/smithereens/issues/415)) ([ca140c4](https://github.com/wmfs/smithereens/commit/ca140c4350b96bc3aae6ee0bf660890cb38c7e41))
+* **deps-dev:** update dependency semantic-release to v24.2.4 ([#410](https://github.com/wmfs/smithereens/issues/410)) ([a4dc4d4](https://github.com/wmfs/smithereens/commit/a4dc4d4cc20ba4bb365ef78164b927310292206d))
+* **deps-dev:** update dependency semantic-release to v24.2.5 ([#413](https://github.com/wmfs/smithereens/issues/413)) ([40f119a](https://github.com/wmfs/smithereens/commit/40f119a2dc00b30974ee4ece8a678af6e3e3caeb))
+* **deps:** update dependency glob to v11.0.3 ([#416](https://github.com/wmfs/smithereens/issues/416)) ([07d9208](https://github.com/wmfs/smithereens/commit/07d9208733b0f804595505783c0a9023cd23aad0))
+
 ## [1.68.0](https://github.com/wmfs/smithereens/compare/v1.67.0...v1.68.0) (2025-05-14)
 
 ### Build system dependencies :hammer:
