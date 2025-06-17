@@ -1,3 +1,9 @@
+## [1.70.0](https://github.com/wmfs/smithereens/compare/v1.69.0...v1.70.0) (2025-06-17)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency pump to v3.0.3 ([#417](https://github.com/wmfs/smithereens/issues/417)) ([3a9e9c3](https://github.com/wmfs/smithereens/commit/3a9e9c32c97aa25a15d2dfba4b2339ecf7ae594a))
+
 ## [1.69.0](https://github.com/wmfs/smithereens/compare/v1.68.0...v1.69.0) (2025-06-13)
 
 ### Build system dependencies :hammer:
