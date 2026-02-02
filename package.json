@@ -25,7 +25,7 @@
     "debug": "4.4.1",
     "glob": "11.1.0",
     "hash-sum": "2.0.0",
-    "jsonfile": "6.1.0",
+    "jsonfile": "6.2.0",
     "make-dir": "4.0.0",
     "pump": "3.0.3",
     "upath": "2.0.1",
