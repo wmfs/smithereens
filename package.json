@@ -28,7 +28,7 @@
     "jsonfile": "6.1.0",
     "make-dir": "4.0.0",
     "pump": "3.0.3",
-    "upath": "2.0.1",
+    "upath": "3.0.7",
     "uuid": "11.1.0"
   },
   "devDependencies": {
