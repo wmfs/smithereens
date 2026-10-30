@@ -1,3 +1,21 @@
+## [1.73.0](https://github.com/wmfs/smithereens/compare/v1.72.1...v1.73.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([1dbf2f6](https://github.com/wmfs/smithereens/commit/1dbf2f6d2130b9ab02244cf37c75e1fff35cffda))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#470](https://github.com/wmfs/smithereens/issues/470)) ([227d252](https://github.com/wmfs/smithereens/commit/227d2526fec83af529050ee7f04002ac75e000c5))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#475](https://github.com/wmfs/smithereens/issues/475)) ([0256095](https://github.com/wmfs/smithereens/commit/0256095d9fe931f18738c53153198ec46c02f5e2))
+* **deps-dev:** update dependency mocha to v12 ([#471](https://github.com/wmfs/smithereens/issues/471)) ([5777452](https://github.com/wmfs/smithereens/commit/577745205c6253d2e943ab142e87c40130c25fcf))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#472](https://github.com/wmfs/smithereens/issues/472)) ([7aa4000](https://github.com/wmfs/smithereens/commit/7aa40009db74babf474d670f717057e53668e2b2))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#473](https://github.com/wmfs/smithereens/issues/473)) ([8c3ae40](https://github.com/wmfs/smithereens/commit/8c3ae40976d21f4550a289f04eeae9953526c04b))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#474](https://github.com/wmfs/smithereens/issues/474)) ([7799dba](https://github.com/wmfs/smithereens/commit/7799dba101be4fbf12e7f4c6164ba349f24c3606))
+* **deps:** update dependency uuid to v11.1.1 [security] ([#454](https://github.com/wmfs/smithereens/issues/454)) ([805ce66](https://github.com/wmfs/smithereens/commit/805ce663e4a3e4019d528ed31bbc98a78e61854c))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#477](https://github.com/wmfs/smithereens/issues/477)) ([e99adfe](https://github.com/wmfs/smithereens/commit/e99adfeb511e0625ef6054b3c92f80346213cee3))
+* use shared renovate preset [sc-34117] ([#476](https://github.com/wmfs/smithereens/issues/476)) ([15efbcb](https://github.com/wmfs/smithereens/commit/15efbcb2a5843bc04c9cf98e6940692daad20260))
+
 ## [1.72.1](https://github.com/wmfs/smithereens/compare/v1.72.0...v1.72.1) (2026-08-13)
 
 ## [1.72.0](https://github.com/wmfs/smithereens/compare/v1.71.0...v1.72.0) (2025-11-24)
