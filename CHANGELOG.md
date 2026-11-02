@@ -1,3 +1,9 @@
+## [1.74.0](https://github.com/wmfs/smithereens/compare/v1.73.0...v1.74.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency upath to v3 ([#451](https://github.com/wmfs/smithereens/issues/451)) ([667005d](https://github.com/wmfs/smithereens/commit/667005d0431622a0071939c3d1e2903b36e14702))
+
 ## [1.73.0](https://github.com/wmfs/smithereens/compare/v1.72.1...v1.73.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
