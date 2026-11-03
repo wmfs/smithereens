@@ -1,3 +1,9 @@
+## [1.76.0](https://github.com/wmfs/smithereens/compare/v1.75.0...v1.76.0) (2026-11-03)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency jsonfile to v6.2.1 ([#423](https://github.com/wmfs/smithereens/issues/423)) ([7c671e5](https://github.com/wmfs/smithereens/commit/7c671e50d2b09af7a7326a4aee134751614108c6))
+
 ## [1.75.0](https://github.com/wmfs/smithereens/compare/v1.74.0...v1.75.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
