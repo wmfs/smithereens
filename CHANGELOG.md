@@ -1,3 +1,11 @@
+## [1.78.0](https://github.com/wmfs/smithereens/compare/v1.77.0...v1.78.0) (2026-11-04)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency glob to v14 [security] ([#478](https://github.com/wmfs/smithereens/issues/478)) ([7ca0436](https://github.com/wmfs/smithereens/commit/7ca04364186389829ae66b487a081a2ff1a61f32))
+* **deps:** update dependency glob to v14.0.3 ([#479](https://github.com/wmfs/smithereens/issues/479)) ([b5cebb7](https://github.com/wmfs/smithereens/commit/b5cebb73e4ddfcabc0cc081e3a98befbc667d19f))
+* **deps:** update dependency uuid to v14 ([#480](https://github.com/wmfs/smithereens/issues/480)) ([0a2a491](https://github.com/wmfs/smithereens/commit/0a2a491872f977501eeb0dbf9056877a834d7dee))
+
 ## [1.77.0](https://github.com/wmfs/smithereens/compare/v1.76.0...v1.77.0) (2026-11-04)
 
 ### Build system dependencies :hammer:
