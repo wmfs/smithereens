@@ -1,3 +1,9 @@
+## [1.77.0](https://github.com/wmfs/smithereens/compare/v1.76.0...v1.77.0) (2026-11-04)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency debug to v4.4.3 ([#430](https://github.com/wmfs/smithereens/issues/430)) ([df02702](https://github.com/wmfs/smithereens/commit/df02702539951d409e9bbc30ba0144b73f5bf08b))
+
 ## [1.76.0](https://github.com/wmfs/smithereens/compare/v1.75.0...v1.76.0) (2026-11-03)
 
 ### Build system dependencies :hammer:
