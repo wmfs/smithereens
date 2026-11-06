@@ -1,3 +1,9 @@
+## [1.78.1](https://github.com/wmfs/smithereens/compare/v1.78.0...v1.78.1) (2026-11-06)
+
+### Bug Fix(es) :bug:
+
+* replace make-dir with fs.promises.mkdir ([#481](https://github.com/wmfs/smithereens/issues/481)) ([0081dd4](https://github.com/wmfs/smithereens/commit/0081dd40b15de3d55303ea199e3d957f262af09a))
+
 ## [1.78.0](https://github.com/wmfs/smithereens/compare/v1.77.0...v1.78.0) (2026-11-04)
 
 ### Build system dependencies :hammer:
