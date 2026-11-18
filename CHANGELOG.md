@@ -1,3 +1,9 @@
+## [1.79.0](https://github.com/wmfs/smithereens/compare/v1.78.1...v1.79.0) (2026-11-18)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency glob to v14.0.6 ([#482](https://github.com/wmfs/smithereens/issues/482)) ([3a87f0b](https://github.com/wmfs/smithereens/commit/3a87f0bb5cdcbc5ca0cef2beb2757d3369cbfe80))
+
 ## [1.78.1](https://github.com/wmfs/smithereens/compare/v1.78.0...v1.78.1) (2026-11-06)
 
 ### Bug Fix(es) :bug:
